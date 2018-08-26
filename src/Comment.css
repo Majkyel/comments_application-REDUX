@@ -1,0 +1,17 @@
+li {
+    list-style-type: none;
+    margin: 50px auto;
+}
+
+button {
+    border-radius: 5px;
+    padding: 3px;
+    border: 1px solid black;
+    background-color: forestgreen;
+    color: white;
+    margin: 0 2px;
+}
+
+.delete {
+    background-color: darkred;
+}
